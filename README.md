@@ -1,4 +1,5 @@
-#DropSpace (MVP)
+#DropSpace 
+
 Plataforma de Dropshipping Moderna e Intuitiva
 DropSpace é uma solução completa para empreendedores que desejam iniciar ou escalar um negócio de e-commerce utilizando o modelo de dropshipping. Nossa plataforma elimina a complexidade da gestão de estoque e logística, permitindo que você se concentre no marketing e nas vendas.
 
