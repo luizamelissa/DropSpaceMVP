@@ -2,8 +2,6 @@
 
 DropSpace é uma solução completa para empreendedores que desejam iniciar ou escalar um negócio de e-commerce utilizando o modelo de dropshipping. Nossa plataforma elimina a complexidade da gestão de estoque e logística, permitindo que você se concentre no marketing e nas vendas.
 
-O site em questão pode ser acessado em: https://dropshop-ce4vpimb.manus.space/
-
 🚀 Funcionalidades Principais
 
 Integração com Fornecedores: Conecte-se facilmente a uma ampla rede de fornecedores e importe produtos em segundos.
